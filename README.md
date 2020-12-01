@@ -1,1 +1,2 @@
-"# Rummy-server-test" 
+# Rummy-server
+Server for rummy game
